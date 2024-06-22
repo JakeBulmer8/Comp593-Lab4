@@ -1,0 +1,6 @@
+
+# Ignores .csv, .log, and __pycache__ files
+
+*.csv
+*.log
+__pycache__/
